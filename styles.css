@@ -1,0 +1,55 @@
+.backgound{
+    background-color: white;
+}
+.logo{
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+.signin{
+    position: absolute;
+    top: 80px;
+    left: 615px;
+    font-size: 48px;
+}
+.moresigin{
+    position: absolute;
+    top: 160px;
+    left: 570px;
+    font-size: 18px;
+}
+.google{
+    position: absolute;
+    left: 700px;
+    top: 250px;
+}
+.apple{
+    position: absolute;
+    left: 700px;
+    top: 310px;
+}
+.barthing{
+    position: absolute;
+    top: 360px;
+    right: 640px;
+}
+.email{
+    position: absolute;
+    top: 440px;
+    left: 680px;
+}
+.emailbutton{
+    position: absolute;
+    top: 470px;
+    left: 720px;
+}
+.greything{
+    position: absolute;
+    top: 500px;
+    left: 580px;
+}
+.greytext{
+    position: absolute;
+    top: 520px;
+    left: 620px;
+}
