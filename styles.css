@@ -20,36 +20,88 @@
 }
 .google{
     position: absolute;
-    left: 700px;
-    top: 250px;
+    left: 580px;
+    top: 220px;
+    width: 360px;
+    height: 40px;
+    background-color: white;
 }
 .apple{
     position: absolute;
-    left: 700px;
-    top: 310px;
+    left: 580px;
+    top: 270px;
+    width: 360px;
+    height: 40px;
+    background-color: white;
 }
 .barthing{
     position: absolute;
-    top: 360px;
-    right: 640px;
+    top: 320px;
+    right: 660px;
 }
 .email{
     position: absolute;
-    top: 440px;
-    left: 680px;
+    top: 380px;
+    left: 580px;
+    width: 360px;
+    height: 40px;
 }
 .emailbutton{
     position: absolute;
-    top: 470px;
-    left: 720px;
+    top: 460px;
+    left: 580px;
+    width: 368px;
+    height: 40px;
+    background-color: purple;
 }
 .greything{
     position: absolute;
-    top: 500px;
-    left: 580px;
+    top: 530px;
+    left: 560px;
 }
 .greytext{
     position: absolute;
-    top: 520px;
-    left: 620px;
+    top: 530px;
+    left: 600px;
+}
+.bottompage{
+    position: absolute;
+    top: 700px;
+    left: 590px;
+}
+.bottompage2{
+    position: absolute;
+    top: 700px;
+    left: 720px;
+}
+.bottompage3{
+    position: absolute;
+    top: 700px;
+    left: 830px;
+}
+.bottompage:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottompage2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottompage3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.apple:hover{
+    cursor: pointer;
+}
+.google:hover{
+    cursor: pointer;
+}
+.emailbutton:hover{
+    cursor: pointer;
+}
+.topright{
+    position: absolute;
+    top: 15px;
+    right: 10px;
 }
