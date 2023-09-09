@@ -9,14 +9,17 @@
 .signin{
     position: absolute;
     top: 80px;
-    left: 615px;
+    left: 600px;
     font-size: 48px;
+    font-family: Slack-Larsseit,Helvetica Neue,Helvetica,Segoe UI,Tahoma,Arial,sans-serif;
 }
 .moresigin{
     position: absolute;
     top: 160px;
-    left: 570px;
+    left: 560px;
     font-size: 18px;
+    color: darkslategrey;
+    font-family:Arial, Helvetica, sans-serif;
 }
 .google{
     position: absolute;
@@ -25,6 +28,9 @@
     width: 360px;
     height: 40px;
     background-color: white;
+    font-size: 14pt;
+    font-family: Slack-Larsseit,Helvetica Neue,Helvetica,Segoe UI,Tahoma,Arial,sans-serif;
+    border-color: lightgray;
 }
 .apple{
     position: absolute;
@@ -33,6 +39,9 @@
     width: 360px;
     height: 40px;
     background-color: white;
+    font-size: 14pt;
+    font-family: Slack-Larsseit,Helvetica Neue,Helvetica,Segoe UI,Tahoma,Arial,sans-serif;
+    border-color: lightgrey;
 }
 .barthing{
     position: absolute;
@@ -45,6 +54,7 @@
     left: 580px;
     width: 360px;
     height: 40px;
+    font-size: 13pt;
 }
 .emailbutton{
     position: absolute;
@@ -53,6 +63,9 @@
     width: 368px;
     height: 40px;
     background-color: purple;
+    color: white;
+    font-size: 13pt;
+    font-weight: bold;
 }
 .greything{
     position: absolute;
