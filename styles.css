@@ -118,3 +118,13 @@
     top: 15px;
     right: 10px;
 }
+.applelogo{
+    position: absolute;
+    right: 860px;
+    top: 272px;
+}
+.googlelogo{
+    position: absolute;
+    right: 865px;
+    top: 222px;
+}
