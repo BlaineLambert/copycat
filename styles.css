@@ -46,7 +46,7 @@
 .barthing{
     position: absolute;
     top: 320px;
-    right: 660px;
+    right: 640px;
 }
 .email{
     position: absolute;
@@ -120,11 +120,11 @@
 }
 .applelogo{
     position: absolute;
-    right: 860px;
+    right: 820px;
     top: 272px;
 }
 .googlelogo{
     position: absolute;
-    right: 865px;
+    right: 825px;
     top: 222px;
 }
